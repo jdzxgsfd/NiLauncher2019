@@ -1,6 +1,0 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-de/19.0/offline/ni-software-platform-bundle-x86-de_19.0.0.49153-0+f1_offline.iso 
-ni-software-platform-bundle-x86-de_19.0.0.49153-0+f1_offline.iso
-5cd5a8e84ee3420c479d995bb5e912da
-19.0.0.49153.x32.de-DE
-Software Platform Bundle 2019 Q2 32bit German
-NI.SPB
