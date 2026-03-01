@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-de/19.1/offline/ni-software-platform-bundle-de_19.1.0.49152-0+f0_offline.iso 
-ni-software-platform-bundle-de_19.1.0.49152-0+f0_offline.iso
-b523fdda8c75b76e292cb2b619b1b266
-19.1.0.49152.x64.de-DE
-Software Platform Bundle 2019 Q4 64bit German
+https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-ja/19.0/offline/ni-software-platform-bundle-ja_19.0.1.49152-0+f0_offline.iso 
+ni-software-platform-bundle-ja_19.0.1.49152-0+f0_offline.iso
+9ea8516d41f0099093ab07351bca4955
+19.0.1.49152.x64.ja-JP
+Software Platform Bundle 2019 Q2 64bit Japanese
 NI.SPB
