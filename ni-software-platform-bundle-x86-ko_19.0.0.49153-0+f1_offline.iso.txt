@@ -1,0 +1,6 @@
+https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-ko/19.0/offline/ni-software-platform-bundle-x86-ko_19.0.0.49153-0+f1_offline.iso 
+ni-software-platform-bundle-x86-ko_19.0.0.49153-0+f1_offline.iso
+1d1022de50255f7eb18199338fc5b698
+19.0.0.49153.x86.ko-KR
+Software Platform Bundle 2019 Q2 32bit Korean
+NI.SPB
